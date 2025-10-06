@@ -5,3 +5,4 @@ issue found
 issue solved
 new update 
 now new branch created
+now issue is solved
